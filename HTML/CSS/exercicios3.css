@@ -37,6 +37,18 @@ a:hover{
 a:active{
     color: #22292e;
 }
+img.displayed {
+    display: block;
+    margin-left: auto;
+    margin-right: auto }
+
+figcaption.legenda{
+    text-align: center;
+    }
+
+#tabela{
+text-align: center;
+    }
 table{
     border: solid;
     background-color: #ffffff;}
