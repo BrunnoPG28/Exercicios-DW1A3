@@ -1,0 +1,57 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: #22292e;
+    color: #bafffa;
+}
+
+#menu{
+    background-image: url(https://static.wixstatic.com/media/149f2c_23efaac6377b431caa20d8c79b588fc8~mv2.jpg/v1/fill/w_450,h_303,al_c,q_90/149f2c_23efaac6377b431caa20d8c79b588fc8~mv2.jpg);
+    border-style: double;
+    padding: 10px;
+    border: 5px;
+    margin: 10px;
+    color: #00aa97;
+}
+
+h1{
+    color: #f7e70c;
+    text-align: center;  
+}
+h2{
+    color: #f7e70c;
+    padding: 5px;
+}
+
+a:link{
+    color: #f7e70c;
+    text-decoration: none;
+}
+a:visited{
+    color: #ffffff;
+    text-decoration: none;
+}
+a:hover{
+    color: #00aa97;
+    text-decoration: underline;
+}
+a:active{
+    color: #22292e;
+}
+table{
+    border: solid;
+    background-color: #ffffff;}
+th , td {
+    border:solid;
+    color: #000000;
+    text-align: center;
+    padding: 5px;
+    width: 100px;}
+.libertadores{
+    background-color: #0000FF !important;
+}
+.pre-liberta{
+    background-color: #6495ED !important;
+}
+.rebaixado{
+    background-color: #FF0000 !important;
+}
