@@ -1,3 +1,4 @@
+<!--PÁGINA FEITA POR BRUNNO PAPIS GUSMÃO (SP3024148)-->
 <!DOCTYPE html>
 <html lang="pt-br">
 
@@ -20,6 +21,7 @@
 
   <!-- Custom styles for this template -->
   <link href="css/clean-blog.min.css" rel="stylesheet">
+  <link href="css/css_tabela_botao.css" rel="stylesheet" type="text/css">
 
 </head>
 
@@ -36,7 +38,7 @@
       <div class="collapse navbar-collapse" id="navbarResponsive">
         <ul class="navbar-nav ml-auto">
           <li class="nav-item">
-            <a class="nav-link" href="index.html">HOME</a>
+            <a class="nav-link" href="https://dimasoliveira01.github.io/Exercicios-DW1A3/PROJETO/index.html">HOME</a>
           </li>
           <li class="nav-item">
             <a class="nav-link" href="index.html">NOTÍCIAS</a>
@@ -47,7 +49,7 @@
   </nav>
 
   <!-- Page Header -->
-  <header class="masthead" style="background-image: url('img/not1.jpg">
+  <header class="masthead" style="background-image: url('img/not1.jpg')">
     <div class="overlay"></div>
     <div class="container">
       <div class="row">
@@ -85,7 +87,7 @@
           <p>A convenção do PRTB seguiu o previsto no estatuto do partido e na resolução do Tribunal Superior Eleitoral, número 23.624, de 13 de agosto de 2020. O comitê executivo do partido homologou a decisão.</p>
 
           <p>Nesta sexta-feira, Levy Fidelix vai para Brasília com 18 candidatos a prefeito pelo PRTB em grandes capitais do País, como Belo Horizonte, Recife e Manaus. Eles estarão em gravações de campanha com o vice-presidente da República, Gal. Hamilton Mourão. A caravana deverá prestigiar na capital federal os eventos de 7 de setembro, dia da Independência do Brasil.</p>
-
+          <p style="text-align: center;"><a href="index.html">Voltar</a></p>  
         </div>
       </div>
     </div>
